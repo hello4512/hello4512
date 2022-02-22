@@ -33,7 +33,7 @@
   [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryuu4512/)](https://www.instagram.com/ryuu4512/)
 -->  
   <br/>
-
+<!--
   <h2>🗃 자격증</h2>
   <ul>
     <li>정보처리기사</li>
@@ -41,6 +41,7 @@
     <li>정보처리기사</li>
   </ul>
   <br/>
+-->
 <div align=center>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=hello4512&show_icons=true&theme=buefy" width = "69%">
