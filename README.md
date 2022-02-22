@@ -1,10 +1,11 @@
-<div align=center>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=SangHoon%20Ryu&fontSize=70&fontColor=ffffff" />
 
+  <br/>
   <h2>🌱  ABOUT ME</h2>
   <p>- 👩🏻‍💻 Developer</p>
 
+  <br/>
   <h2>📚  SKILLS</h2>
   <p>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -21,6 +22,17 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   </p>
+  
+  <h2>💬 Contact</h2>
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:910814rsh@gmail.com)](mailto:910814rsh@gmail.com)
+
+
+<!--
+  [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/toryu1211)](https://blog.naver.com/toryu1211)
+  [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryuu4512/)](https://www.instagram.com/ryuu4512/)
+-->  
+  <br/>
 
   <h2>🗃 자격증</h2>
   <ul>
@@ -28,21 +40,15 @@
     <li>정보처리기사</li>
     <li>정보처리기사</li>
   </ul>
-
-  <h2>💬 Contact</h2>
-
-  [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://blog.naver.com/toryu1211)](https://blog.naver.com/toryu1211)
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:910814rsh@gmail.com)](mailto:910814rsh@gmail.com)
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-d14836?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ryuu4512/)](https://www.instagram.com/ryuu4512/)
-
-  <p align="center">
+  <br/>
+<div align=center>
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=hello4512&show_icons=true&theme=buefy" width = "69%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujinJeong" width="28.5%">
    </p>
 
-
-    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhello4512&count_bg=%23FF8D8D&title_bg=%23938282&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhello4512&count_bg=%23FF8D8D&title_bg=%23938282&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br>
 </div>
 
 <!--
